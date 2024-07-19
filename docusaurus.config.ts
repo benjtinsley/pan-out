@@ -55,15 +55,23 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // TODO: Replace with your project's social card
+    // image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Pan Out 2024',
       logo: {
         alt: '',
         src: 'img/gold-bar.svg',
       },
-    
+      items: [
+        {
+          type: 'doc',
+          position: 'left',
+          docId: 'intro',
+          label: 'Wiki',
+        },
+        {to: 'blog', label: 'Blog', position: 'left'},
+      ],
     },
     footer: {
       style: 'dark',

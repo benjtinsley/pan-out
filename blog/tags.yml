@@ -1,16 +1,8 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+cohort-2024:
+  label: 'cohort-2024'
+  permalink: /cohort-2024
+  description: Pan Out 2024 Cohort
+announcements:
+  label: announcements
+  permalink: /announcements
+  description: Pan Out Announcements
