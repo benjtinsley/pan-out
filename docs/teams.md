@@ -20,7 +20,7 @@ Set up a time and place to meet for your First Meeting. Don't view this as the t
 It's a good idea to get to know each other. Some good talking points to cover for each member would be:
 
 1. What attracted you to this idea.
-1. Skill levels, depth in the program, outside experience prior to joining this program
+1. Skill levels, depth in the program, outside experience prior to joining this program.
 1. What you hope to accomplish with this idea.
 1. What you'd like to work on or your role on the project
 
@@ -31,7 +31,8 @@ This will be a project of lots and ups and downs with team members coming in and
 1. **Be Terminal in Your Thinking**: Focus on the success of the project and orient your decisions around that. Don't get caught in [bike-shedding](https://en.wikipedia.org/wiki/Law_of_triviality) debates.
 1. **Be flexible**: Try a bunch of different things. The CSPB program is great at showing you a granular look at topics in CS, but most of the day-in-day-out of the job you get from your degree won't look like this. Find the things you love doing _with_ a background in CS.
 1. **Solve the problems when needed**: Have an idea of where the bridges are, but don't plan on crossing them until it's time. 
+1. **Leadership ebbs and flows**: At some times or for some topics, one person can take the lead. At other times or other topics, someone else may take lead. Work well with each other's strengths.
 1. **Be compassionate**: Progress will stall, so have patience & understanding for your teammates who haven't made any. Remember, Pan Out is just one more thing on top of all of our already busy lives.
 1. **A.B.C. = Always Be C... showing up!**: Show up to the meetings, even if you haven't made progress in places you said you would. See the above point. They will understand.
 1. **Learn to like each other**: Get to know your teammates. Plan a meetup if possible, or stay 15 minutes past the weekly meetings just to chat and goof off.
-1. **Pivot!**: The pitch was perhaps too optimistic about the capabilities, or maybe there is a budget and fundraising needed to happen to reach a milestone. Whatever the case may be, be willing to change courses if it looks like you are heading toward a dead end. If anything pivoting will prove to be a great story to tell in interviews.
+1. **Pivot!**: The pitch was perhaps too optimistic about the capabilities, or maybe there is a budget and fundraising needed to reach a milestone. Whatever the case may be, be willing to change courses if it looks like you are heading toward a dead end. If anything, pivoting will prove to be a great story to tell in interviews.
