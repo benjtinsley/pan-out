@@ -6,11 +6,11 @@ sidebar_position: 1
 
 ## Purpose
 
-Pan Out is a student-led inititiative to help all current or prior enrollees in CU's CSPB program strike gold, by teaming up to build student-pitched product, application or service ideas, using the skills learned in the program to inspire and empower themselves and the world around them.
+Pan Out is a student-led inititiative to help all current or prior enrollees in CU's CSPB program strike gold, by teaming up to build student-pitched products, applications or services, using the skills learned in the program to inspire and empower themselves and the world around them.
 
 ## How it Works
 
-The second week of the Fall semester, we will hold **Pan Out Pitches**, where students can pitch their ideas in a 5 minute presentation to their peers. All participants will have a chance to vote on their top 3 pitches and the ones with the most votes will team up based by interest and build the thing.
+The second week of the Fall semester 2024, we will hold **Pan Out Pitches**, where students can pitch their ideas in a 5 minute presentation to their peers. All participants will have a chance to vote on their top 3 pitches. The pitches with enough votes will form a team based by interest and build the thing.
 
 Once the teams are created, it's then up to them how they want to define requirements, make decisions, assign work and manage timelines. 
 
@@ -46,12 +46,12 @@ _Note, this will be recorded and shared in the discord channel. If you are a Pit
 
 **Following Pan Out Pitches, Friday, September 6, 2024**: Discord Q&A and Voting Opens
 
-_This will be an opportunity to ask questions to the Pitchers about their ideas in an open forum._
+_This will be an opportunity to ask questions to the Pitchers about their ideas in an open forum. Participants participate in ranked voting to select their 1st, 2nd and 3rd most interesting pitches._
 
 **Tuesday, September 10, 2024 @ 10pm MST** Voting ends
 
 ### Team Work & Demoes
-**Thursday, September 12, 2024** Winning pitches are announced and teams are notified.
+**Thursday, September 12, 2024** The pichtes with enough votes to form a team are selected and teams are announced.
 
 _From then, it's up to the teams what happens._
 

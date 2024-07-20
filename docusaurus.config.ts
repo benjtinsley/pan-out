@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://panout.wiki',
+  url: 'https://panout.guide',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -61,14 +61,15 @@ const config: Config = {
       title: 'Pan Out 2024',
       logo: {
         alt: '',
-        src: 'img/gold-bar.svg',
+        srcDark: 'img/gold-bar-dark.svg',
+        src: 'img/gold-bar-light.svg',
       },
       items: [
         {
           type: 'doc',
           position: 'left',
           docId: 'intro',
-          label: 'Wiki',
+          label: 'Guide',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
       ],
