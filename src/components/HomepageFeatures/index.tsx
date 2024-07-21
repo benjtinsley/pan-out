@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/hp-build.svg').default,
     description: (
       <>
-        Teams will form around the top ideas and work to build it out, giving updates to everyone along the way.
+        Ideas with enough votes to form a team will group up and build the thing, updating the cohort on their progress along the way.
       </>
     ),
   },
