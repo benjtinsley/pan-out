@@ -26,6 +26,8 @@ Pitches will be held **Friday, September 6 at 4pm** (Mountain Time) on Zoom. Onc
 
 1. **Anticipate questions**: Explain the problem and how your idea solves it.
 
+1. **Do Your Research**: Make sure your idea is feasible given current technology and capabilities. 
+ 
 1. **Default to high-level**: Technical decisions, design decisions and other specifics can be hammered down as a team. Only cover the nitty-gritty if absolutely necessary.
 
 1. **Make slides**: People like visuals! And remember, if you are planning on sharing your screen, ensure your Zoom permissions are enabled beforehand.

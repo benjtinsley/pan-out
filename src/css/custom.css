@@ -6,27 +6,29 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --svg-fill: currentColor;
+  --ifm-color-primary: #3e8073;      /* Saturated 10% more than #5e9085 */
+  --ifm-color-primary-dark: #356e60; /* Saturated 10% more than #547e73 */
+  --ifm-color-primary-darker: #2f6258; /* Saturated 10% more than #4d746b */
+  --ifm-color-primary-darkest: #214944; /* Saturated 10% more than #3f6058 */
+  --ifm-color-primary-light: #468b7e;   /* Saturated 10% more than #669b90 */
+  --ifm-color-primary-lighter: #4d9287; /* Saturated 10% more than #6da299 */
+  --ifm-color-primary-lightest: #59a29b; /* Saturated 10% more than #7ab5ab */
+  --ifm-menu-color-background-active: rgba(62, 128, 115, 0.5); /* Saturated 10% more than rgba(94, 144, 133, 0.5) */
+  --ifm-menu-color-active: currentColor;
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-navbar-background-color: #ededed;
+  --ifm-background-color: #ededed;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --svg-fill: #fff;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+html[data-theme='dark'] {
+  --ifm-color-primary: #59a29b;      /* Saturated 10% more than #7ab5ab */
+  --ifm-color-primary-dark: #4d9287; /* Saturated 10% more than #6da299 */
+  --ifm-color-primary-darker: #468b7e; /* Saturated 10% more than #669b90 */
+  --ifm-color-primary-darkest: #2f6258; /* Saturated 10% more than #4d746b */
+  --ifm-color-primary-light: #69b7a7;   /* Saturated 10% more than #82c1b6 */
+  --ifm-color-primary-lighter: #70beb0; /* Saturated 10% more than #88c9bd */
+  --ifm-color-primary-lightest: #7dccc2; /* Saturated 10% more than #96d7ca */
+  --ifm-navbar-background-color: #423c3c;
+  --ifm-background-color: #353030;
 }

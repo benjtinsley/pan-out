@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Pan Out',
-  tagline: 'The CU CSPB student-led initiative to strike it rich',
+  tagline: 'The CU student-led initiative to strike it rich',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
