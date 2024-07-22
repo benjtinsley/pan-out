@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Purpose
 
-Pan Out is a student-led inititiative to help all current or prior enrollees in CU's CSPB program strike gold, by teaming up to build student-pitched products, applications or services, using the skills learned in the program to inspire and empower themselves and the world around them.
+Pan Out is a student-led inititiative to help all current or prior CU enrollees strike gold, by teaming up to build student-pitched products, applications or services, using the skills learned in the program to inspire and empower themselves and the world around them.
 
 ## How it Works
 
@@ -16,7 +16,7 @@ Once the teams are created, it's then up to them how they want to define require
 
 The first week of every semester following, we will check in with the teams, allowing them to give a 10 minute **Pan Out Demo** where each team can show off the progress they've made.
 
-**Important Note**: While Pan Out is open for former or current students in CU's CSPB program, it is not affiliated with the University of Colorado.
+**Important Note**: While Pan Out is open for former or current CU students, it is not affiliated with the University of Colorado.
 
 ## How to Get Involved
 

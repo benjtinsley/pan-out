@@ -14,16 +14,16 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/hp-pitch.svg').default,
     description: (
       <>
-        Have an idea that you think would make a great project? Pitch it to the cohort in a presentation that is 5 minutes or less.
+        Have an idea that you think would make a great project? Pitch it to the cohort in a 5 minute presentation.
       </>
     ),
   },
   {
-    title: 'Vote for the Best',
+    title: 'Vote for Your Favorites',
     Svg: require('@site/static/img/hp-vote.svg').default,
     description: (
       <>
-        Using ranked voting, the participants will vote on which ideas they would like to work on the most.
+        Everyone votes on which ideas appeal to them the most. The ideas with enough votes to form a team will group up.
       </>
     ),
   },
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/hp-build.svg').default,
     description: (
       <>
-        Teams will form around the top ideas and work to build it out, giving updates to everyone along the way.
+        Figure out how to build the thing! Each semester we will check in on your progress with help and support along the way.
       </>
     ),
   },
