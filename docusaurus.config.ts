@@ -71,7 +71,7 @@ const config: Config = {
           docId: 'intro',
           label: 'Guide',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        // {to: 'blog', label: 'Blog', position: 'left'},
       ],
     },
     footer: {
