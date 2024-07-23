@@ -20,9 +20,7 @@ The first week of every semester following, we will check in with the teams, all
 
 ## How to Get Involved
 
-Check the University of Colorado Post Bacc Discord server. If you aren't a member, ask in Piazza if any other students in your classes can send you an invite. If that fails, [email BD](mailto:beti7384@colorado.edu) with the subject line "Pan Out Discord Invite" from your colorado.edu email. Emails from non colorado.edu domains will not be seen.
-
-**Another Important Note**: while the University of Colorado Post Bacc Discord server is the entry point into Pan Out, it's not where your team will collaborate! Your team will determine the best route for communication and tracking.
+Check the Pan Out Discord server. If you aren't a member, ask in Piazza if any other students in your classes can send you an invite. If that fails, [email BD](mailto:beti7384@colorado.edu) with the subject line "Pan Out Discord Invite" from your colorado.edu email. Emails from non colorado.edu domains will not be seen.
 
 
 ## Timeline
