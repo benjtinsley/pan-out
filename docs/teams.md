@@ -34,6 +34,6 @@ This will be a project of lots and ups and downs with team members coming in and
 1. **Leadership ebbs and flows**: At some times or for some topics, one person can take the lead. At other times or other topics, someone else may take lead. Work well with each other's strengths.
 1. **Be compassionate**: Progress will stall, so have patience & understanding for your teammates who haven't made any. Remember, Pan Out is just one more thing on top of all of our already busy lives.
 1. **A.B.C. = Always Be C... showing up!**: Show up to the meetings, even if you haven't made progress in places you said you would. See the above point. They will understand.
-1. **Ask questions when stuck**: Ask your teammates first, and if you can't figure it out, ask the `#pan-out` channel in Discord. People love helping out.
+1. **Ask questions when stuck**: Ask your teammates first, and if you can't figure it out, ask the `#help-and-advice` channel in the Pan Out Discord. People love helping out.
 1. **Learn to like each other**: Get to know your teammates. Plan a meetup if possible, or stay 15 minutes past the weekly meetings just to chat and goof off.
 1. **Pivot!**: The pitch was perhaps too optimistic about the capabilities, or maybe there is a budget and fundraising needed to reach a milestone. Whatever the case may be, be willing to change courses if it looks like you are heading toward a dead end. If anything, pivoting will prove to be a great story to tell in interviews.

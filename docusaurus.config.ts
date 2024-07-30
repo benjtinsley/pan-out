@@ -56,7 +56,7 @@ const config: Config = {
 
   themeConfig: {
     // TODO: Replace with your project's social card
-    // image: 'img/docusaurus-social-card.jpg',
+    image: 'img/pan-out-card.jpg',
     navbar: {
       title: 'Pan Out 2024',
       logo: {
@@ -71,7 +71,7 @@ const config: Config = {
           docId: 'intro',
           label: 'Guide',
         },
-        // {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'left'},
       ],
     },
     footer: {
