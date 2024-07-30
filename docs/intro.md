@@ -25,14 +25,16 @@ Check the Pan Out Discord server. If you aren't a member, ask in Piazza if any o
 
 ## Timeline
 
-### Sign Ups
-**Until Saturday, Aug 31, 2024**: Sign ups for Pan Out
+### Registration
+**Until Saturday, Aug 31, 2024**: Register for Pan Out using the [registration form](https://airtable.com/appUZlki4652CK7di/pagcP828fGemE1PjU/form)
+
+**_Note_:** _You must sign in with the above form with your colorado.edu email address to access the form._
 
 _You may elect to be a_ Pitcher _(pitch your idea to your peers),_ Participant _(vote on the ideas you like the most and work on one), or a_ Viewer _(just here for the pitches, demoes and free coffee)._
 
 **Until Friday, September 6, 2024 @ 2pm MST**: Submissions for Pan Out Pitches
 
-_If you selected Pitcher in the Pan Out sign ups, you will be sent a submission form via your colorado.edu email._
+_If you selected Pitcher in the Pan Out registration, you will be sent a submission form via your colorado.edu email._
 
 **Friday, September 6, 2024 @ 3pm MST**: Order for Pan Out Pitches will be shared with the Pitchers via colorado.edu email.
 
