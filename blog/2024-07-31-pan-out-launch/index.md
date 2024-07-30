@@ -5,12 +5,13 @@ authors: bd
 tags: [announcements, cohort-2024]
 ---
 
-Welcome to Pan Out! I'm glad you are considering participating this year. I know your time is valuable so I'll keep this brief. 
+Welcome to Pan Out! I'm glad you are considering participating this year. I wanted to take a moment to write about why Pan Out exists but I know your time is valuable so I'll keep this brief. 
 
-<!-- Truncate -->
+<!-- truncate -->
+
 I joined CU's CS program, because, likely similar to you, I saw computer science as a field with great potential. The ability to start at "wouldn't it be cool if..." or "why doesn't this exist?" and then go and build it with nothing more than my laptop seemed truly inspiring. So far, this program has been worth the investment, but I can't help but wonder if there's a bigger picture I'm missing - something that is a way for us students to get together and build an impressive product without expectation for grades or awards, something to prove we are in it for the love of the game.
 
-My vision for Pan Out is to create an environment where students rely on each other to create something that will change their world. I am sure several of us work on solo projects and portfolio pieces to show off our skills and resourcefulness. Pan Out is there to provide an outlet for the bigger ideas that are too ambitious, too much work or too risky to go it alone.
+My vision for Pan Out is just that. It's an an environment where students rely on each other to create something that will change their world. I am sure several of us work on solo projects and portfolio pieces to show off our skills and resourcefulness. Pan Out is there to provide an outlet for the bigger ideas that are too ambitious, too much work or too risky to go it alone.
 
 Pan Out is an incubator for professional skills. It allows you to find an idea you feel is worth bringing into existence using the expertise you've gained and hone those skills further. It puts like-minded individuals together to build the constraints and define the problems to reach the end goal.
 
