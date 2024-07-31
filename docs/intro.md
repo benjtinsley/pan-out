@@ -26,9 +26,9 @@ Check the Pan Out Discord server. If you aren't a member, ask in Piazza if any o
 ## Timeline
 
 ### Registration
-**Until Saturday, Aug 31, 2024**: Register for Pan Out using the [registration form](https://airtable.com/appUZlki4652CK7di/pagcP828fGemE1PjU/form)
+**Until Saturday, Aug 31, 2024**: Register for Pan Out using the registration form found in the `#register` channel in the Pan Out discord server.
 
-**_Note_:** _You must sign in with the above form with your colorado.edu email address to access the form._
+**_Note_:** _To register, you must sign into the form with your colorado.edu email address._
 
 _You may elect to be a_ Pitcher _(pitch your idea to your peers),_ Participant _(vote on the ideas you like the most and work on one), or a_ Viewer _(just here for the pitches, demoes and free coffee)._
 

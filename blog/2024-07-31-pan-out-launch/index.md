@@ -9,7 +9,7 @@ Welcome to Pan Out! I'm glad you are considering participating this year. I want
 
 <!-- truncate -->
 
-I joined CU's CS program, because, like many others, I saw computer science as a field with great potential. The ability to start at "wouldn't it be cool if..." or "why doesn't this exist?" and then go and build it with nothing more than my laptop seemed truly inspiring. So far, this program has been worth the investment, but I can't help but wonder if there's a bigger picture I'm missing — something that brings us students together to build an impressive product without expectation for grades or awards, something to prove we are in it for the love of the game.
+I joined CU's CS program because, like many others, I saw computer science as a field with great potential. The ability to start at "wouldn't it be cool if..." or "why doesn't this exist?" and then go and build it with nothing more than my laptop seemed truly inspiring. So far, this program has been worth the investment, but I can't help but wonder if there's a bigger picture I'm missing — something that brings us students together to build an impressive product without expectation for grades or awards, something to prove we are in it for the love of the game.
 
 My vision for Pan Out is just that. It's an environment where students rely on each other to create something that will change their world. I am sure several of us work on solo projects and portfolio pieces to show off our skills and resourcefulness. Pan Out is there to provide an outlet for the bigger ideas that are too ambitious, too much work or too risky to go it alone.
 
