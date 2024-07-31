@@ -59,7 +59,7 @@ const config: Config = {
     announcementBar: {
       id: 'register_2024',
       content:
-        'Registration open for Pan Out 2024: <a target="_blank" rel="noopener noreferrer" href="https://airtable.com/appUZlki4652CK7di/pagcP828fGemE1PjU/form">Register with your CU email here</a>',
+        'Registration open for Pan Out 2024. Go to the #register channel in the Pan Out discord server for more information.',
       backgroundColor: '#303846',
       textColor: '#7dccc2',
       isCloseable: false,
