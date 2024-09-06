@@ -56,14 +56,14 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/pan-out-card.png',
-    announcementBar: {
-      id: 'register_2024',
-      content:
-        'Registration open for Pan Out 2024. Go to the #register channel in the Pan Out discord server for more information.',
-      backgroundColor: '#303846',
-      textColor: '#7dccc2',
-      isCloseable: false,
-    },
+    // announcementBar: {
+    //   id: 'register_2024',
+    //   content:
+    //     'Registration open for Pan Out 2024. Go to the #register channel in the Pan Out discord server for more information.',
+    //   backgroundColor: '#303846',
+    //   textColor: '#7dccc2',
+    //   isCloseable: false,
+    // },
     navbar: {
       title: 'Pan Out 2024',
       logo: {
